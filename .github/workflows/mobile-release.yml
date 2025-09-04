@@ -7,7 +7,7 @@ permissions:
 
 env:
   PROJECT_NAME: PsychEngine
-  REPO_PATH: noctrox389/Mime-and-Dash-V1-PORT-NG
+  REPO_PATH: MLGplay1298/Friday-Funk
 
 jobs:
   get-commit-hash:
